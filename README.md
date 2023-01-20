@@ -11,4 +11,4 @@
 - Connect with me: [LinkedIn]("https://linkedin.com/in/owenstrength")
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenstrength&layout=compact)](https://github.com/owenstrength/github-readme-stats)
