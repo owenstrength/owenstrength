@@ -8,6 +8,6 @@
 
 - 📫 How to reach me **owenstrength@gmail.com**
 
-- Connect with me: [LinkedIn]("https://linkedin.com/in/owenstrength")
+- Connect with me: [LinkedIn](https://linkedin.com/in/owenstrength)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenstrength&layout=compact)](https://github.com/owenstrength/github-readme-stats)
